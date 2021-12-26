@@ -1,0 +1,131 @@
+{
+    "user": [
+        {
+            "_id": {
+                "$oid": "61c87a7f745b6d8197b1f079"
+            },
+            "name": "abhishek",
+            "email": "abhishek007@gmail.com",
+            "password": "$2a$10$T5uO64JjbpzM/qim12td.Orbty6TcpDJLGhqjJthbwkecuKnMqIiO",
+            "about": "i am a pilot",
+            "username": "abhishek007",
+            "following": [
+                "prasoon007"
+            ],
+            "joined_at": {
+                "$date": {
+                    "$numberLong": "1640528511215"
+                }
+            },
+            "__v": {
+                "$numberInt": "1"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "61c8835a745b6d8197b1f0a0"
+            },
+            "name": "shivam",
+            "email": "shivam@gmail.com",
+            "password": "$2a$10$5TxpTr19HNIjo1nCitAQUeJ9wESqbMXknk4DMS6/jgO1Ywg7r5otO",
+            "about": "full stack developer ",
+            "username": "shivam007",
+            "following": [
+                "prasoon007"
+            ],
+            "joined_at": {
+                "$date": {
+                    "$numberLong": "1640530778121"
+                }
+            },
+            "__v": {
+                "$numberInt": "1"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "61c87925745b6d8197b1f068"
+            },
+            "name": "prasoon shukla",
+            "email": "prasoon007@gmail.com",
+            "password": "$2a$10$G9J2qtC5uOblXsTW84NSZ.jdtKGTrBVKx31eiqfVH4YvtJJPXR2DW",
+            "about": "i am a web developer",
+            "username": "prasoon007",
+            "following": [],
+            "joined_at": {
+                "$date": {
+                    "$numberLong": "1640528165130"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        }
+    ],
+    "status": [
+        {
+            "_id": {
+                "$oid": "61c879a9745b6d8197b1f06e"
+            },
+            "title": "Artificial Intelligence (AI)",
+            "desc": "Artificial Intelligence, or AI, has already received a lot of buzz in the past decade, but it continues to be one of the new technology trends because of its notable effects on how we live, work and play are only in the early stages. AI is already known for its superiority in image and speech recognition, navigation apps, smartphone personal assistants, ride-sharing apps and so much more.",
+            "author": "prasoon007",
+            "updated_at": {
+                "$date": {
+                    "$numberLong": "1640528297427"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "61c87a58745b6d8197b1f077"
+            },
+            "title": "Robotic Process Automation (RPA)",
+            "desc": "Like AI and Machine Learning, Robotic Process Automation, or RPA, is another technology that is automating jobs. RPA is the use of software to automate business processes such as interpreting applications, processing transactions, dealing with data, and even replying to emails. RPA automates repetitive tasks that people used to do. ",
+            "author": "prasoon007",
+            "updated_at": {
+                "$date": {
+                    "$numberLong": "1640528472204"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "61c87acb745b6d8197b1f085"
+            },
+            "title": "Edge Computing",
+            "desc": "Formerly a new technology trend to watch, cloud computing has become mainstream, with major players AWS (Amazon Web Services), Microsoft Azure and Google Cloud Platform dominating the market. The adoption of cloud computing is still growing, as more and more businesses migrate to a cloud solution. But it’s no longer the emerging technology trend. Edge is.",
+            "author": "abhishek007",
+            "updated_at": {
+                "$date": {
+                    "$numberLong": "1640528587247"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "61c88461745b6d8197b1f0b8"
+            },
+            "title": "Feeling Delighted ",
+            "desc": "Will Talk To U later",
+            "author": "shivam007",
+            "updated_at": {
+                "$date": {
+                    "$numberLong": "1640531041609"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        }
+    ]
+}
